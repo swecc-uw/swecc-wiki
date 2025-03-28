@@ -7,7 +7,7 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.png
   palette:
-    scheme: slate  # dark mode as default
+    scheme: slate # dark mode as default
     primary: custom
     accent: custom
   features:
@@ -22,20 +22,28 @@ extra_css:
 nav:
   - Home: index.md
   - Member Resources:
-    - Overview: member-resources/index.md
-    - Job Search:
-      - Applying to Jobs: member-resources/applying-to-jobs/index.md
-      - Succeeding at Your Internship: member-resources/succeeding-at-your-internship/index.md
-    - Interview Preparation:
-      - Overview: member-resources/interview-prep/index.md
-      - Behavioral Interviews: member-resources/interview-prep/behavioral/index.md
-      - Technical Interviews: member-resources/interview-prep/technical/index.md
-    - Community Participation:
+      - Overview: member-resources/index.md
+      - Recruiting:
+          - Job Search:
+              - Overview: member-resources/applying-to-jobs/index.md
+              - Finding Job Applications: member-resources/applying-to-jobs/finding-job-applications.md
+          - Interview Preparation:
+              - Overview: member-resources/interview-prep/index.md
+              - Behavioral Interviews:
+                  - Overview: member-resources/interview-prep/behavioral/index.md
+              - Technical Interviews:
+                  - Overview: member-resources/interview-prep/technical/index.md
+                  - Data Structures and Algorithms (Leetcode) Interviews: member-resources/interview-prep/technical/dsa.md
+                  - System Design Interviews: member-resources/interview-prep/technical/sys-design-interviews.md
+                  - System Design Primer: member-resources/interview-prep/technical/sys-design-primer.md
+      - Succeeding at Your Internship:
+          - Your First Internship: member-resources/succeeding-at-your-internship/index.md
       - Contributing to Open Source: member-resources/contributing-to-open-source/index.md
   - Engineering:
-    - Overview: engineering/index.md
-    - Technical Documentation:
-      - Coming Soon: engineering/placeholder.md
+      - Overview: engineering/index.md
+      - Technical Documentation:
+          - Coming Soon: engineering/placeholder.md
+
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
@@ -46,3 +54,4 @@ markdown_extensions:
 
 plugins:
   - search
+  - git-authors
