@@ -1,35 +1,44 @@
-site_name: SWECC Wiki
+site_name: Wiki
 site_url: https://wiki.swecc.org
 repo_url: https://github.com/swecc-uw/swecc-wiki
 
 theme:
   name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+    scheme: slate  # dark mode as default
+    primary: custom
+    accent: custom
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.expand
-    - navigation.indexes
     - content.code.copy
-    - search.highlight
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
 
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Member Resources:
+    - Overview: member-resources/index.md
+    - Job Search:
+      - Applying to Jobs: member-resources/applying-to-jobs/index.md
+      - Succeeding at Your Internship: member-resources/succeeding-at-your-internship/index.md
+    - Interview Preparation:
+      - Overview: member-resources/interview-prep/index.md
+      - Behavioral Interviews: member-resources/interview-prep/behavioral/index.md
+      - Technical Interviews: member-resources/interview-prep/technical/index.md
+    - Community Participation:
+      - Contributing to Open Source: member-resources/contributing-to-open-source/index.md
+  - Engineering:
+    - Overview: engineering/index.md
+    - Technical Documentation:
+      - Coming Soon: engineering/placeholder.md
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
-  - pymdownx.tabbed
-  - pymdownx.tasklist
   - admonition
   - footnotes
   - toc:
