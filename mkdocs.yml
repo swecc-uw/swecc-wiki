@@ -54,4 +54,11 @@ markdown_extensions:
 
 plugins:
   - search
-  - git-authors
+  - git-authors:
+      show_contribution: true
+      show_line_count: true
+      show_email_address: true
+      href: "mailto:{email}"
+      count_empty_lines: true
+      fallback_to_empty: false
+      enabled: true
