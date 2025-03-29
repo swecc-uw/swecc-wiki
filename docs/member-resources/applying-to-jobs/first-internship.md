@@ -7,6 +7,8 @@ While the number of software engineering jobs may be trending downwards, there a
 
 ## Alright, so how do I get one?
 
+### Resumes
+
 One of, if not _the_, key things that recruiters use to filter candidates is your resume. The parseability and readability of your resume is extremely important. It might look nice to create a document with fancy colors and cool pictures, but this is not what recruiters are looking for. They're looking for information about you – informative but quickly scannable.
 
 <!-- center this image on the page -->
@@ -18,9 +20,19 @@ One of, if not _the_, key things that recruiters use to filter candidates is you
     <p style="font-size: 0.8em;">Bad Design! ❌</p>
   </div>
   <div>
-    <img src="https://writelatex.s3.amazonaws.com/published_ver/16158.jpeg?X-Amz-Expires=14400&X-Amz-Date=20250329T095005Z&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAWJBOALPNFPV7PVH5/20250329/us-east-1/s3/aws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=be46dc3b491db2faf346661b4fd35df016bbccc3f2cc2f61d4cc75cedecd45d7" alt="Good resume!" width="437"/>
+    <img src="../../../assets/jakes-resume.png" alt="Good resume!" width="437"/>
     <p style="font-size: 0.8em;">Good Design! ✅</p>
   </div>
 </div>
 
-Notice how the second resume is much more readable and scannable than the first one. The first one has a lot of colors and images, while the second one is simple and easy to read, with clear sections and a consistent format. This is what you should aim for in your resume.
+Notice how the second resume is much more readable and scannable than the first one. The first one has a lot of colors and images alongside some truly gruesome graphic design and contrast, while the second one is simple and easy to read, with clear sections and a consistent format.[^1] This is what you should aim for in your resume. A great template to start with if you don't feel as confident making your own is Jake's Template (should be one of the first results on Google, to an Overleaf document). This requires learning/using LaTeX, which is a markup language that is used to create documents. You can make beautifully typeset documents with it, but _not_ required if you don't want to learn it.
+
+On that note, I actually got my first internship offer with a Microsoft Word resume, the template for which I got from the University of Washington's Allen School. As long as it's clear, concise, and easy to read for recruiters, they will not care what you use to make it. Just please submit a PDF.
+
+It's important to note that you should attempt to treat your resume as a **living document**. This means taking a look at what roles need – if they want special skills, make sure to mention them. If you have more relevant experiences for a particular role, include those for your resume. Get people to review your resume – we have a [channel dedicated specifically to this](https://discord.com/channels/960050427657863218/1171196028955918506) in our Discord server. It's important to know how other real people see your resume and double-check it.
+
+Lastly, if you want a more in-depth and thorough guide on _what_ to put on your resume, check out [this reddit post](https://www.reddit.com/r/EngineeringResumes/wiki/index/). It has a lot of great information on how to format your resume, what to put on it, and how to make it stand out. We'll also have a tool coming soon to help ;)
+
+### Applications
+
+[^1]: Most resumes nowadays are black and white for a reason. You might think this is for "beating the ATS", but it's just as important, [if not more](https://www.reddit.com/r/recruiting/comments/1bw5pmn/does_your_ats_really_parse_throughfilter_resumes/), to "beat the reviewer"!
