@@ -13,7 +13,7 @@ To contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
-3. To run the site locally, install [mkdocs](https://www.mkdocs.org/getting-started/), and then install the [git-authors plugin](https://github.com/mkdocs/catalog). Finally, install the [material theme](https://github.com/squidfunk/mkdocs-material).
+3. To run the site locally, install [mkdocs](https://www.mkdocs.org/getting-started/), and then install the [git-authors plugin](https://github.com/timvink/mkdocs-git-authors-plugin). Finally, install the [material theme](https://github.com/squidfunk/mkdocs-material).
    Once that all is done, run `mkdocs serve` to start a local server.
 4. Make your changes and commit them with a clear message.
 5. Push your changes to your forked repository, and create a pull request to the main repository.
