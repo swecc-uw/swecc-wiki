@@ -36,8 +36,15 @@ nav:
                   - Data Structures and Algorithms (Leetcode) Interviews: member-resources/interview-prep/technical/dsa.md
                   - System Design Interviews: member-resources/interview-prep/technical/sys-design-interviews.md
                   - System Design Primer: member-resources/interview-prep/technical/sys-design-primer.md
-      - Succeeding at Your Internship:
-          - Your First Internship: member-resources/succeeding-at-your-internship/index.md
+      - Succeeding at Your First Internship:
+          - Overview: member-resources/succeeding-at-your-internship/0-overview.md
+          - Before You Start: member-resources/succeeding-at-your-internship/1-before-you-start.md
+          - Onboarding: member-resources/succeeding-at-your-internship/2-onboarding.md
+          - Planning Your Project: member-resources/succeeding-at-your-internship/3-planning-your-project.md
+          - Getting Feedback: member-resources/succeeding-at-your-internship/4-getting-feedback.md
+          - Hitting Your Stride: member-resources/succeeding-at-your-internship/5-hitting-your-stride.md
+          - Networking: member-resources/succeeding-at-your-internship/6-networking.md
+          - Wrapping Up: member-resources/succeeding-at-your-internship/7-wrapping-up.md
       - Contributing to Open Source: member-resources/contributing-to-open-source/index.md
   - Engineering:
       - Overview: engineering/index.md
