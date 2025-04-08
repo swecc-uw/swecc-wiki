@@ -9,7 +9,7 @@ While the number of software engineering jobs may be trending downwards, there a
 
 ### Resumes
 
-One of, if not _the_, key things that recruiters use to filter candidates is your resume. The parseability and readability of your resume is extremely important. It might look nice to create a document with fancy colors and cool pictures, but this is not what recruiters are looking for. They're looking for information about you – informative but quickly scannable.
+One of, if not _the_, key things that recruiters use to filter candidates is your resume. The parseability and readability of your resume is extremely important. It might look nice to create a document with fancy colors and cool pictures, but this is not what recruiters are looking for. They're ultimately looking for information about _you_.
 
 <!-- center this image on the page -->
 <!-- and add a caption that says "Bad Design!" -->
