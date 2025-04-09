@@ -19,7 +19,7 @@ To contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your changes.
-3. Create a virtual environment and install the required dependencies. You can do this by running `python -m venv venv && pip install -r requirements.txt` in the root directory of the repository.
+3. Create a virtual environment and install the required dependencies. You can do this by running `python -m venv venv && source venv/bin/activate && pip install -r requirements.txt` in the root directory of the repository.
 4. Run `mkdocs serve` to start the local server and view the site in your browser. This will allow you to see your changes in real-time as you make them.
 5. Make your changes and commit them with a clear message.
 6. Push your changes to your forked repository, and create a pull request to the main repository.
