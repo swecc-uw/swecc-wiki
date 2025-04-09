@@ -9,7 +9,7 @@ While the number of software engineering jobs may be trending downwards, there a
 
 ### Resumes
 
-One of, if not _the_, key things that recruiters use to filter candidates is your resume. The parseability and readability of your resume is extremely important. It might look nice to create a document with fancy colors and cool pictures, but this is not what recruiters are looking for. They're ultimately looking for information about _you_.
+One of, if not _the_, key things that recruiters use to filter candidates is your resume. The parseability and readability of your resume is extremely important. It might look nice to create a document with fancy colors and cool pictures, but this is not what recruiters are looking for. They're looking for information about you – informative but quickly scannable.
 
 <!-- center this image on the page -->
 <!-- and add a caption that says "Bad Design!" -->
@@ -41,4 +41,4 @@ There are many tools out there to help you with your applications. While you mig
 
 Check out the [interview prep section](../interview-prep/) for more information on how to prepare for interviews. There are many resources out there, and we have a lot of them listed in the wiki. Some of the most popular ones are [LeetCode](https://leetcode.com/), [NeetCode](https://neetcode.io), and [HackerRank](https://www.hackerrank.com/). These are all great resources to practice coding problems and get used to the interview process.
 
-[^1]: Most resumes nowadays are black and white for a reason. You might think this is for "beating the ATS", but it's just as important, [if not more](https://www.reddit.com/r/recruiting/comments/1bw5pmn/does_your_ats_really_parse_throughfilter_resumes/), to "beat the reviewer"!
+[^1]: Most resumes nowadays are black and white for a reason. You might think this is for "beating the [ATS](https://simplify.jobs/blog/how-to-write-an-ats-optimized-resume/)", but it's just as important, [if not more](https://www.reddit.com/r/recruiting/comments/1bw5pmn/does_your_ats_really_parse_throughfilter_resumes/), to "beat the reviewer"!
