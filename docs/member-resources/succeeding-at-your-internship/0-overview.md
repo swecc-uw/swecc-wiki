@@ -31,11 +31,6 @@ How can you solicit feedback from your manager and team? How can you use feedbac
 
 How do you know when you're in a good rhythm? How can you maintain your momentum? How can you stay organized and focused? This section will help you find your stride and keep it going.
 
-
-### [Networking](./6-networking.md)
-
-How can you build relationships with your team and other interns? How can you leverage your network to find future opportunities? How can you stay in touch with your internship contacts after the internship ends? This section will help you build your network and make the most of your connections.
-
-### [Wrapping up your internship](./7-wrapping-up.md)
+### [Wrapping up your internship](./6-wrapping-up.md)
 
 What should you do to wrap up your internship? How can you reflect on your experience and learn from it? How can you prepare for your next opportunity? This section will help you wrap up your internship and set yourself up for success in the future.
