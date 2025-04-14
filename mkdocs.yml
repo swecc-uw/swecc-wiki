@@ -32,6 +32,13 @@ nav:
               - Overview: member-resources/interview-prep/index.md
               - Behavioral Interviews:
                   - Overview: member-resources/interview-prep/behavioral/index.md
+              - Companies:
+                  - Contributing: member-resources/interview-prep/companies/index.md
+                  - Amazon: member-resources/interview-prep/companies/amazon.md
+                  - Databricks: member-resources/interview-prep/companies/databricks.md
+                  - Meta: member-resources/interview-prep/companies/meta.md
+                  - Palantir: member-resources/interview-prep/companies/palantir.md
+                  - Stripe: member-resources/interview-prep/companies/stripe.md
               - Technical Interviews:
                   - Overview: member-resources/interview-prep/technical/index.md
                   - Data Structures and Algorithms (Leetcode) Interviews: member-resources/interview-prep/technical/dsa.md
