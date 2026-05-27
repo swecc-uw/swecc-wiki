@@ -21,6 +21,19 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Sweccathon:
+      - Start Here: Sweccathon/START_HERE.md
+      - Information Hub: Sweccathon/SWECCathon 2026 Information Hub.md
+      - Mesocosm:
+          - Authentication: Sweccathon/mesocosm/authentication.md
+          - Command Reference: Sweccathon/mesocosm/command-reference.md
+          - Getting Started: Sweccathon/mesocosm/getting-started.md
+          - Local Development: Sweccathon/mesocosm/local-development.md
+          - Running Benchmarks: Sweccathon/mesocosm/running-benchmarks.md
+          - Showcase: Sweccathon/mesocosm/showcase.md
+          - Submitting Environments: Sweccathon/mesocosm/submitting-environments.md
+          - Teams: Sweccathon/mesocosm/teams.md
+          - Troubleshooting: Sweccathon/mesocosm/troubleshooting.md
   - Member Resources:
       - Overview: member-resources/index.md
       - Recruiting:
